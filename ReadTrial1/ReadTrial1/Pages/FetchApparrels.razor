@@ -1,0 +1,87 @@
+﻿<h3>Men's Section</h3>
+
+@page "/fetchApparel/{id:int}"
+
+@using ReadTrial1.Data
+@inject IGenderApparelService ApparelService
+
+<h1>Product List</h1>
+
+
+@if (apparels == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Product Id</th>
+                <th>Product Name</th>
+                <th>Gender Id</th>
+                <th>List Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var apparel in apparels)
+            {
+                <tr>
+                    <td>@apparel.product_id</td>
+                    <td>@apparel.product_name</td>
+                    <td>@apparel.gender_id</td>
+                    <td>@apparel.list_price</td>
+                    
+                    <td><button @onclick="@(() => AddToCart(@apparel.product_id))">Add To Cart</button></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+
+    private List<Product> apparels;
+
+    [Parameter] public int id { get; set; }
+    [Parameter] public int productId { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        apparels = await ApparelService.GetProductByGenderId(id);
+    }
+
+
+}
+@functions {
+    public async Task Delete(int id)
+    {
+        await ApparelService.DeleteById(id);
+    }
+    public async Task AddToCart(int productId)
+    {
+        var product = await ApparelService.GetProductAsync("https://localhost:5001/api/ReadValues/product/" + productId);
+        var checkStocks = await ApparelService.GetStockByIdAsync("https://localhost:5001/api/ReadValues/stock/" + productId);
+        ProductUpdate prod = new ProductUpdate()
+        {
+            ProductId = product.product_id,
+            ListPrice = product.list_price
+        };
+        if (checkStocks!=null)
+        {
+            if (checkStocks.Quantity != 0)
+            {
+                var qwe = await ApparelService.PostOrderByProductId("https://localhost:3001/api/CudApi/1", prod);
+            }
+            else
+            {
+                Console.WriteLine("Out of Stock");
+            }
+        }
+        else
+        {
+            Console.WriteLine("Out of Stock");
+        }
+
+    }
+}

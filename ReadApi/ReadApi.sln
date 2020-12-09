@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadApi", "ReadApi\ReadApi.csproj", "{438DA29F-C9E6-49BF-9F48-1DDC56BE78D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{438DA29F-C9E6-49BF-9F48-1DDC56BE78D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{438DA29F-C9E6-49BF-9F48-1DDC56BE78D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{438DA29F-C9E6-49BF-9F48-1DDC56BE78D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{438DA29F-C9E6-49BF-9F48-1DDC56BE78D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A69FFF38-38CB-48AE-B403-0A81F73462D4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,71 @@
+﻿<h3>Create Product</h3>
+@page "/create"
+@using ReadTrial1.Data
+@inject IGenderApparelService ApparelService
+
+
+<input placeholder="Name" @bind="newTodo" />
+
+<input placeholder="ListPrice" @bind="newTodo1" />
+
+<input placeholder="GenderId" @bind="newTodo2" />
+
+<input placeholder="CategoryId" @bind="newTodo3" />
+<button @onclick="AddTodo">Add Product</button>
+
+
+<!--<table class="table">
+    <thead>
+        <tr>
+            <th>Product Id</th>
+            <th>Product Name</th>
+            <th>Gender Id</th>
+            <th>List Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            @foreach (var todo in apparels)
+            {
+
+                <td>@todo.product_id</td>
+                <td>@todo.product_name</td>
+                <td>@todo.gender_id</td>
+                <td>@todo.list_price</td>
+
+
+            }
+        </tr>
+
+    </tbody>
+</table>-->
+@code {
+
+
+    private ProductUpdate todos = new ProductUpdate();
+    private string newTodo;
+    private decimal newTodo1;
+    private int newTodo2;
+    private int newTodo3;
+    private List<Product> apparels;
+    protected override async Task OnInitializedAsync()
+    {
+        apparels = await ApparelService.GetAsync("https://localhost:5001/api/ReadValues/api");
+    }
+    private async Task AddTodo()
+    {
+
+        if (!string.IsNullOrWhiteSpace(newTodo))
+        {
+            todos.ProductName = newTodo;
+            todos.ListPrice = newTodo1;
+            todos.GenderId = newTodo2;
+            todos.CategoryId = newTodo3;
+
+            await ApparelService.PostAsJsonAsync("https://localhost:3001/api/CudProduct/", todos);
+
+        }
+
+    }
+
+}

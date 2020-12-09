@@ -1,0 +1,25 @@
+﻿@page "/checkOut"
+<h3>CheckOut</h3>
+<h1>Thank You</h1>
+@using ReadTrial1.Data
+@inject IGenderApparelService ApparelService
+@inject NavigationManager UriHelper
+@code {
+    protected override async Task OnInitializedAsync()
+    {
+        var orderItems = await ApparelService.GetCartDetails("https://localhost:5001/api/ReadValues/apiorder");
+        foreach (var item in orderItems)
+        {
+            var stock = await ApparelService.GetStockByIdAsync("https://localhost:5001/api/ReadValues/stock/" + item.product_id);
+            stock.Quantity = stock.Quantity - item.Quantity;
+            StockUpdate stockUpdate = new StockUpdate()
+            {
+                ProductId = stock.product_id,
+                Quantity = stock.Quantity
+            };
+            await ApparelService.UpdateQuantityInStocks("https://localhost:3001/api/cudStock/" + stock.product_id, stockUpdate);
+        }
+    }
+
+}
+

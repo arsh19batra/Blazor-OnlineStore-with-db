@@ -1,0 +1,211 @@
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\ReadTrial1.exe
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\ReadTrial1.deps.json
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\ReadTrial1.runtimeconfig.json
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\ReadTrial1.runtimeconfig.dev.json
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\ReadTrial1.dll
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\ReadTrial1.pdb
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\ReadTrial1.Views.dll
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\ReadTrial1.Views.pdb
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.csprojAssemblyReference.cache
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.AssemblyInfoInputs.cache
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.AssemblyInfo.cs
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.RazorComponent.input.cache
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.TagHelpers.input.cache
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.TagHelpers.output.cache
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.RazorCoreGenerate.cache
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.RazorAssemblyInfo.cache
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.RazorAssemblyInfo.cs
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.RazorTargetAssemblyInfo.cache
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.RazorTargetAssemblyInfo.cs
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.Views.pdb
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\staticwebassets\ReadTrial1.StaticWebAssets.Manifest.cache
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\staticwebassets\ReadTrial1.StaticWebAssets.xml
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.dll
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.pdb
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.genruntimeconfig.cache
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.csproj.CopyComplete
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchApparrels.razor.g.cs
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.csproj.CoreCompileInputs.cache
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\ReadTrial1.dll
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Pages\FetchApparrels.razor.g.cs
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\arshb\source\repos\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.dll
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.pdb
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\ReadTrial1.exe
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\ReadTrial1.deps.json
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\ReadTrial1.runtimeconfig.json
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\ReadTrial1.runtimeconfig.dev.json
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\ReadTrial1.dll
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\ReadTrial1.pdb
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\ReadTrial1.Views.dll
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\ReadTrial1.Views.pdb
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.csprojAssemblyReference.cache
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.AssemblyInfoInputs.cache
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.AssemblyInfo.cs
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.csproj.CoreCompileInputs.cache
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.RazorComponent.input.cache
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchApparrels.razor.g.cs
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\ReadTrial1.dll
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.TagHelpers.input.cache
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.TagHelpers.output.cache
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.RazorCoreGenerate.cache
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Pages\FetchApparrels.razor.g.cs
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.RazorAssemblyInfo.cache
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.RazorAssemblyInfo.cs
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.RazorTargetAssemblyInfo.cache
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.RazorTargetAssemblyInfo.cs
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.Views.pdb
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.csproj.CopyComplete
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\staticwebassets\ReadTrial1.StaticWebAssets.Manifest.cache
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\staticwebassets\ReadTrial1.StaticWebAssets.xml
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.genruntimeconfig.cache
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AdminPage.razor.g.cs
+C:\Users\parast\Desktop\parasgit\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Pages\AdminPage.razor.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\ReadTrial1.exe
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\ReadTrial1.deps.json
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\ReadTrial1.runtimeconfig.json
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\ReadTrial1.runtimeconfig.dev.json
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\ReadTrial1.dll
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\ReadTrial1.pdb
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\ReadTrial1.Views.dll
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\ReadTrial1.Views.pdb
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.csprojAssemblyReference.cache
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.AssemblyInfoInputs.cache
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.AssemblyInfo.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.csproj.CoreCompileInputs.cache
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.RazorComponent.input.cache
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AdminPage.razor.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchApparrels.razor.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\ReadTrial1.dll
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.TagHelpers.input.cache
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.TagHelpers.output.cache
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.RazorCoreGenerate.cache
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Pages\AdminPage.razor.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Pages\FetchApparrels.razor.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.RazorAssemblyInfo.cache
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.RazorAssemblyInfo.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.RazorTargetAssemblyInfo.cache
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.RazorTargetAssemblyInfo.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.Views.pdb
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.csproj.CopyComplete
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\staticwebassets\ReadTrial1.StaticWebAssets.Manifest.cache
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\staticwebassets\ReadTrial1.StaticWebAssets.xml
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.dll
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.pdb
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\ReadTrial1.genruntimeconfig.cache
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Cart.razor.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Pages\Cart.razor.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\CheckOut.razor.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Pages\CheckOut.razor.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Create.razor.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Pages\Create.razor.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AdminCreateWithoutForm.razor.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Pages\AdminCreateWithoutForm.razor.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EditQuantity.razor.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Pages\EditQuantity.razor.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EditUpdateQuantity.razor.g.cs
+C:\Users\arshb\Desktop\Reference material\ReadTrial1\ReadTrial1\obj\Debug\netcoreapp3.1\Razor\Pages\EditUpdateQuantity.razor.g.cs

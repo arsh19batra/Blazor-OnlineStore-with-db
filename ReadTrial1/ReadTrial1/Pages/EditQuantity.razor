@@ -1,0 +1,27 @@
+﻿<h3>Add Quantity For New Product</h3>
+
+@code {
+
+}
+@page "/AddQ"
+@using ReadTrial1.Data
+@inject IGenderApparelService ApparelService
+@code {
+    private StockUpdate todos = new StockUpdate();
+    private int newTodo;
+    private int newTodo2;
+
+    private async Task AddTodo()
+    {
+
+        todos.ProductId = newTodo;
+        todos.Quantity = newTodo2;
+        
+        
+        await ApparelService.PostAsJsonAsync("https://localhost:3001/api/CudStock/", todos);
+    }
+}
+
+<input placeholder="ProductId" @bind="newTodo" />
+<input placeholder="Quantity" @bind="newTodo2" />
+<button @onclick="AddTodo">Add</button>

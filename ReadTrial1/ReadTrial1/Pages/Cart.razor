@@ -1,0 +1,134 @@
+﻿<h3>Cart</h3>
+@page "/cart"
+
+@using ReadTrial1.Data
+@inject IGenderApparelService ApparelService
+@inject NavigationManager UriHelper
+@if (apparels == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <html>
+    <head>
+        <style>
+            .blank_row {
+                height: 10px !important;
+                background-color: #FFFFFF;
+            }
+        </style>
+        <meta name="viewport" content="width=device-width" />
+        <title>Cart</title>
+    </head>
+    <body>
+
+        <h3>Your Cart</h3>
+        <form method="post" action="cart">
+            <table border="1">
+                <tr>
+                    <th>Remove</th>
+                    <th>Item Id</th>
+                    <th>Product Id</th>
+                    <th>Price</th>
+
+                    <th>Quantity </th>
+
+
+
+
+                </tr>
+                @foreach (var item in apparels)
+                {
+                    <tr align="center">
+                        <td><button @onclick="@(() => DeleteOrderItem(@item.order_id))">X</button></td>
+
+                        <td>@item.order_id</td>
+                        <td>@item.product_id</td>
+                        <td>@item.list_price</td>
+                        <td>@item.Quantity</td>
+
+                        <td>
+                            <input @bind="@item.Quantity" />
+                            <button @onclick="@(() => UpdateQuantity(@item.order_id,@item.Quantity))">Update</button>
+                        </td>
+
+
+                    </tr>
+                }
+
+                
+            </table>
+        </form>
+        <div style="text-align:left">
+            <a href="" target="_blank">Continue Shopping</a>
+        </div>
+        <div style="text-align:center">
+
+            <!--<button  @onclick="@(()=>UpdateStock())">ConfirmOrder</button>-->
+            <button @onclick="@Navigate">ConfirmOrder</button>
+        </div>
+    </body>
+</html>
+}
+
+@code {
+    private List<OrderDetails> apparels;
+
+    [Parameter] public int id { get; set; }
+    [Parameter] public int productId { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        apparels = await ApparelService.GetCartDetails("https://localhost:5001/api/ReadValues/apiorder");
+    }
+    void Navigate()
+    {
+        UriHelper.NavigateTo("/checkOut");
+    }
+}
+@functions
+{
+    public async Task<String> DeleteOrderItem(int productId)
+    {
+        await ApparelService.DeleteProductById(productId);
+        return "Ok";
+    }
+    protected async Task UpdateQuantity(int orderId, int quantity)
+    {
+        var item = await ApparelService.GetOrderByIdAsync("https://localhost:5001/api/ReadValues/order/" + orderId);
+        var checkStocks = await ApparelService.GetStockByIdAsync("https://localhost:5001/api/ReadValues/stock/" + item.product_id);
+        if (checkStocks.Quantity < quantity)
+        {
+            Console.WriteLine("Sorry this quantity is unavailable");
+        }
+        else if (checkStocks.Quantity >= quantity)
+        {
+            OrderDetailsCud itemUpdate = new OrderDetailsCud()
+            {
+                OrderId = item.order_id,
+                ListPrice = item.list_price,
+                ProductId = item.order_id,
+                Quantity = quantity
+            };
+            await ApparelService.UpdateQuantity("https://localhost:3001/api/CudApi/" + orderId, itemUpdate);
+
+        }
+    }
+    protected async Task UpdateStock()
+    {
+        var orderItems = await ApparelService.GetCartDetails("https://localhost:5001/api/ReadValues/apiorder");
+        foreach (var item in orderItems)
+        {
+            var stock = await ApparelService.GetStockByIdAsync("https://localhost:5001/api/ReadValues/stock/" + item.product_id);
+            stock.Quantity = stock.Quantity - item.Quantity;
+            StockUpdate stockUpdate = new StockUpdate()
+            {
+                ProductId = stock.product_id,
+                Quantity = stock.Quantity
+            };
+            await ApparelService.UpdateQuantityInStocks("https://localhost:3001/api/cudStock/" + stock.product_id, stockUpdate);
+        }
+
+    }
+}

@@ -1,0 +1,75 @@
+﻿<h3>UpdateQuantity</h3>
+@page "/edit"
+
+
+@using ReadTrial1.Data
+@inject IGenderApparelService ApparelService
+@inject NavigationManager UriHelper
+
+<h1>Product List</h1>
+
+
+@if (apparels == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Product Id</th>
+                <th>Quantity</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var apparel in apparels)
+            {
+                <tr>
+                    <td>@apparel.product_id</td>
+                    <td>
+                        <input @bind="@apparel.Quantity" />
+                        <button @onclick="@(() => UpdateQuantity(apparel.product_id,apparel.Quantity))">Update</button>
+                    </td>
+
+
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a href="AddQ">Add Quantity For New Product</a>
+}
+
+@code {
+
+    private List<StockRead> apparels;
+
+    [Parameter] public int id { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        apparels = await ApparelService.GetStockAsync("https://localhost:5001/api/ReadValues/stocks");
+    }
+    void Navigate()
+    {
+        UriHelper.NavigateTo("/edit");
+    }
+
+}
+@functions {
+    public async Task Delete(int id)
+    {
+        await ApparelService.DeleteById(id);
+    }
+    protected async Task UpdateQuantity(int productId, int quantity)
+    {
+        var item = await ApparelService.GetStockByIdAsync("https://localhost:5001/api/ReadValues/stock/" + productId);
+        StockUpdate itemUpdate = new StockUpdate()
+        {
+            ProductId = item.product_id,
+            Quantity = quantity
+        };
+        await ApparelService.UpdateQuantityInStocks("https://localhost:3001/api/CudStock/" + productId, itemUpdate);
+    }
+}

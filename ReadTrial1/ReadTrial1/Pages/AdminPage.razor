@@ -1,0 +1,67 @@
+﻿<h3>Administrator</h3>
+
+@page "/fetchData"
+
+@using ReadTrial1.Data
+@inject IGenderApparelService ApparelService
+@inject NavigationManager UriHelper
+
+<h1>Product List</h1>
+
+
+@if (apparels == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <a href="create">Create New...</a>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Product Id</th>
+                <th>Product Name</th>
+                <th>Gender Id</th>
+                <th>List Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var apparel in apparels)
+            {
+                <tr>
+                    <td>@apparel.product_id</td>
+                    <td>@apparel.product_name</td>
+                    <td>@apparel.gender_id</td>
+                    <td>@apparel.list_price</td>
+                    <td><button @onclick="@(() => Delete(@apparel.product_id))">Delete</button></td>
+                    
+                </tr>
+            }
+        </tbody>
+    </table>
+    <td><button @onclick=@Navigate>Edit</button></td>
+}
+
+@code {
+
+    private List<Product> apparels;
+
+    [Parameter] public int id { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        apparels = await ApparelService.GetAsync("https://localhost:5001/api/ReadValues/api");
+    }
+    void Navigate()
+    {
+        UriHelper.NavigateTo("/edit");
+    }
+
+}
+@functions {
+    public async Task Delete(int id)
+    {
+        await ApparelService.DeleteById(id);
+    }
+
+}
